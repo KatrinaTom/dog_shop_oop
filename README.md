@@ -12,6 +12,7 @@ Tutorial is from "Modern JavaScript from the beginning - all the way up to JS ex
 * Working with Contructor Methods 
 * Using & "Connecting" Multiple Classes
 * Binding Class Methods & Working with "this"
+* getters and setters
 
 ---
 
@@ -19,6 +20,12 @@ Tutorial is from "Modern JavaScript from the beginning - all the way up to JS ex
 
 Desktop Size 
 
-<img src="assets/images/app_images/image1_dt.png" alt="desktop iamage">
+<img src="assets/images/app_images/image1_dt.png" alt="desktop image">
 
-<img src="assets/images/app_images/image1_mw.png" alt="mobile web iamage">
+Mobile Web Size
+
+<img src="assets/images/app_images/image1_mw.png" alt="mobile web image">
+
+Mobile Web image with 'Order Now!' button
+
+<img src="assets/images/app_images/image2_mw.png" alt="mobile web with Order Now button">
